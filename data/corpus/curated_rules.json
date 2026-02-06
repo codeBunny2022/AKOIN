@@ -1,0 +1,106 @@
+[
+  {
+    "chunk_id": "PRA-RR-001",
+    "source_id": "reporting-crr-5",
+    "source_ref": "PRA Rulebook - Reporting CRR - 5. Reporting Requirements",
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/reporting-crr/5-reporting-requirements",
+    "template_ref": "CA1",
+    "text": "Institutions shall report their own funds in accordance with the reporting templates set out in the EBA implementing technical standards. Own funds are composed of Common Equity Tier 1 capital, Additional Tier 1 capital and Tier 2 capital. The sum of these components, after deductions, constitutes total eligible own funds."
+  },
+  {
+    "chunk_id": "PRA-RR-002",
+    "source_id": "reporting-crr-5",
+    "source_ref": "PRA Rulebook - Reporting CRR - 5. Reporting Requirements",
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/reporting-crr/5-reporting-requirements",
+    "template_ref": "CA1",
+    "text": "Common Equity Tier 1 capital (CET1) comprises capital instruments and related share premium accounts, retained earnings, accumulated other comprehensive income, and other reserves. It also includes funds for general banking risk. Amounts must be reported in the reporting currency in units with no decimals for monetary data points."
+  },
+  {
+    "chunk_id": "PRA-RR-003",
+    "source_id": "reporting-crr-5",
+    "source_ref": "PRA Rulebook - Reporting CRR - 5. Reporting Requirements",
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/reporting-crr/5-reporting-requirements",
+    "template_ref": "CA1",
+    "text": "Additional Tier 1 capital (AT1) consists of capital instruments that meet the criteria in the CRR for inclusion in AT1, including certain subordinated debt and instruments other than those included in Common Equity Tier 1. These must be reported in template C 01.00 in the column designated for Additional Tier 1."
+  },
+  {
+    "chunk_id": "PRA-RR-004",
+    "source_id": "reporting-crr-5",
+    "source_ref": "PRA Rulebook - Reporting CRR - 5. Reporting Requirements",
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/reporting-crr/5-reporting-requirements",
+    "template_ref": "CA1",
+    "text": "Tier 2 capital includes instruments and provisions that meet the criteria for Tier 2 in the CRR. Tier 2 capital is used in addition to CET1 and AT1 to meet the total capital requirement. Report Tier 2 amounts in the corresponding row of template C 01.00 (Own Funds)."
+  },
+  {
+    "chunk_id": "PRA-RR-005",
+    "source_id": "reporting-crr-5",
+    "source_ref": "PRA Rulebook - Reporting CRR - 5. Reporting Requirements",
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/reporting-crr/5-reporting-requirements",
+    "template_ref": "CA1",
+    "text": "Total eligible own funds is the sum of Common Equity Tier 1 capital, Additional Tier 1 capital and Tier 2 capital, after applying the regulatory adjustments and deductions set out in the CRR. This total is reported in the final row of the Own Funds template (C 01.00)."
+  },
+  {
+    "chunk_id": "EBA-CA1-001",
+    "source_id": "eba-corep-instructions",
+    "source_ref": "EBA COREP Reporting Instructions - C 01.00 Own Funds",
+    "source_url": "https://www.eba.europa.eu/risk-and-data-analysis/reporting-frameworks",
+    "template_ref": "CA1",
+    "text": "Template C 01.00 (CA1) presents the composition of own funds. Row 1.1 is for Common Equity Tier 1 capital, row 1.2 for Additional Tier 1 capital, and row 1.3 for Tier 2 capital. Row 1.4 shows total eligible own funds. All monetary values are expressed in the reporting currency in whole units."
+  },
+  {
+    "chunk_id": "EBA-CA1-002",
+    "source_id": "eba-corep-instructions",
+    "source_ref": "EBA COREP Reporting Instructions - C 01.00 Own Funds",
+    "source_url": "https://www.eba.europa.eu/risk-and-data-analysis/reporting-frameworks",
+    "template_ref": "CA1",
+    "text": "When completing C 01.00, institutions shall use the reference date of the reporting period. The reference date is the last day of the reporting period (e.g. quarter-end or year-end). Report only amounts that are eligible as own funds in accordance with the CRR provisions."
+  },
+  {
+    "chunk_id": "PRA-RR-006",
+    "source_id": "reporting-crr-5",
+    "source_ref": "PRA Rulebook - Reporting CRR - 5. Reporting Requirements",
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/reporting-crr/5-reporting-requirements",
+    "template_ref": "CA1",
+    "text": "Monetary data points in supervisory reporting shall be expressed in units with no decimals, except where otherwise specified for particular templates. Percentage data points shall be expressed per unit with four decimal places. The reporting currency is the currency in which the institution prepares its annual accounts."
+  },
+  {
+    "chunk_id": "PRA-RR-007",
+    "source_id": "reporting-crr-2a",
+    "source_ref": "PRA Rulebook - 2A Reporting to the PRA - Reports and Templates",
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/reporting/2a-reporting-to-the-pra-reports-and-templates",
+    "template_ref": "CA1",
+    "text": "Firms must submit COREP returns using the formats and templates specified in the PRA Rulebook. The Own Funds template (C 01.00) is part of the Common Solvency Ratio Reporting (COREP) framework. Submissions are required at the frequency applicable to the firm (monthly, quarterly, semi-annually or annually)."
+  },
+  {
+    "chunk_id": "PRA-RR-008",
+    "source_id": "reporting-crr-5",
+    "source_ref": "PRA Rulebook - Reporting CRR - 5. Reporting Requirements",
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/reporting-crr/5-reporting-requirements",
+    "template_ref": "CA2",
+    "text": "Capital requirements are calculated as the sum of the requirements for credit risk, market risk and operational risk, plus any additional requirements. Template C 02.00 (CA2) shows the breakdown of own funds requirements by risk type. Institutions report the minimum capital requirement and the combined buffer requirement."
+  },
+  {
+    "chunk_id": "PRA-RR-009",
+    "source_id": "reporting-crr-5",
+    "source_ref": "PRA Rulebook - Reporting CRR - 5. Reporting Requirements",
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/reporting-crr/5-reporting-requirements",
+    "template_ref": null,
+    "text": "Reporting reference dates are typically the last calendar day of the reporting period. Remittance deadlines are usually 12 to 15 working days after the reference date, depending on the report type. Firms must ensure data is accurate and consistent with the underlying prudential calculations."
+  },
+  {
+    "chunk_id": "EBA-CA1-003",
+    "source_id": "eba-corep-instructions",
+    "source_ref": "EBA COREP Reporting Instructions - C 01.00 Own Funds",
+    "source_url": "https://www.eba.europa.eu/risk-and-data-analysis/reporting-frameworks",
+    "template_ref": "CA1",
+    "text": "Regulatory adjustments and deductions are applied to the components of own funds before arriving at the total. Deductions include intangible assets, deferred tax assets, and certain holdings of capital instruments. The net position after deductions is reported in the template."
+  },
+  {
+    "chunk_id": "EBA-CA1-EXAMPLE",
+    "source_id": "eba-corep-instructions",
+    "source_ref": "EBA COREP C 01.00 - Illustrative example amounts",
+    "source_url": "https://www.eba.europa.eu/risk-and-data-analysis/reporting-frameworks",
+    "template_ref": "CA1",
+    "text": "For illustration only: an example C 01.00 completion might show Common Equity Tier 1 (row 1.1) 1000000, Additional Tier 1 (row 1.2) 50000, Tier 2 (row 1.3) 100000, and total eligible own funds (row 1.4) 1150000, all in whole units of the reporting currency. These are example figures only; institutions report their actual amounts."
+  }
+]

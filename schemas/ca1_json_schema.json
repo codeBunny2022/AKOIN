@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "COREP C 01.00 Own Funds",
+  "type": "object",
+  "required": ["template_id", "fields"],
+  "properties": {
+    "template_id": { "type": "string", "const": "C 01.00" },
+    "template_name": { "type": "string", "default": "Own Funds" },
+    "reference_date": { "type": ["string", "null"], "format": "date" },
+    "answer_summary": { "type": ["string", "null"] },
+    "fields": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["field_id", "source_chunk_ids"],
+        "properties": {
+          "field_id": { "type": "string" },
+          "value": { "type": ["string", "null"] },
+          "source_chunk_ids": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    }
+  }
+}
